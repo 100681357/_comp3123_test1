@@ -1,5 +1,5 @@
-//after trying too do this i realized that i need to doing more work in this course, i've been having trouble in this course but i didn't i would be able too do the lab test,
-//I will have too give more of my time too this course
+//after trying too do this i realized that i need to doing more work in this course, i've been having trouble in this course but i didn't i wouldn't be able too do the lab test,
+//I will have to give more of my time too this course
 
 function lowerCaseWords(array){
     var promise = new Promise(function (resolve, reject) {
